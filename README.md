@@ -26,6 +26,11 @@ to use if the results are similar
 Data Analysis
 language used: Python
 
+# Validate and clean data
+product_sales=product_sales.fillna(0)
+product_sales['sales_method']=product_sales['sales_method'].replace(['em + call', 'email'], ['Email + Call', 'Email'])
+print(product_sales)
+
 Findings/Results
 - For Call method most customers spent less on products, with fewer customers spending more.
 - For Email method most customers spent less on products, with fewer customers spending more. There are few customers who spent significantly more than than the majority.

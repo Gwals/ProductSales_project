@@ -46,6 +46,7 @@ print(customers_for_each_method)
 # sum of revenues for each sales category
 print(product_sales.groupby('sales_method')['revenue'].sum())
 ...
+
 Findings/Results
 - For Call method most customers spent less on products, with fewer customers spending more.
 - For Email method most customers spent less on products, with fewer customers spending more. There are few customers who spent significantly more than than the majority.

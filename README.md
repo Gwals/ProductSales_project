@@ -7,12 +7,13 @@ following the product launch.
 -The primary data source used for this project is 'product_sales.csv' containing information about customers approached by different methods.
 
 ## Tools
--Pandas- data cleaning
--Python searbon- data visualization
+- Pandas- data cleaning
+- Python searbon- data visualization
+- Python Jupyter
 
 ## Data cleaning
--Handling missing values
--Handling inconsistant naming
+- Handling missing values
+- Handling inconsistant naming
 
 ## Exploratory Data Analysis
 -We need to know:
@@ -32,5 +33,5 @@ language used: Python
 - For Email + Call method most customers spent more on products, with fewer customers spending less on product
 
 ## Recomendations
--Based on the analysis the following is recommended:
- -the Email + Call method is recommended for its consistent average revenue growth, making it the most effective sales strategy over time.
+- Based on the analysis the following is recommended:
+ - the Email + Call method is recommended for its consistent average revenue growth, making it the most effective sales strategy over time.

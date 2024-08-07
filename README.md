@@ -1,10 +1,10 @@
 # Product Sales Analysis
 ## Project Overview
--The project aims to identify the most effective sales approach among three methods (Email, Call, and Email+Call) for Pens and Printers Company, which specializes in office stationery. The company tested these methods on a new line of office stationery and provided six weeks of data 
+The project aims to identify the most effective sales approach among three methods (Email, Call, and Email+Call) for Pens and Printers Company, which specializes in office stationery. The company tested these methods on a new line of office stationery and provided six weeks of data 
 following the product launch.
 
 ## Data Source
--The primary data source used for this project is 'product_sales.csv' containing information about customers approached by different methods.
+The primary data source used for this project is 'product_sales.csv' containing information about customers approached by different methods.
 
 ## Tools
 - Pandas- data cleaning
@@ -16,7 +16,7 @@ following the product launch.
 - Handling inconsistant naming
 
 ## Exploratory Data Analysis
--We need to know:
+We need to know:
  - How many customers were there for each approach?
  - What does the spread of the revenue look like overall? And for each method?
  - Was there any difference in revenue over time for each of the methods?

@@ -52,6 +52,10 @@ print(product_sales.groupby('sales_method')['revenue'].sum())
 - For Email method most customers spent less on products, with fewer customers spending more. There are few customers who spent significantly more than than the majority.
 - For Email + Call method most customers spent more on products, with fewer customers spending less on product
 
+![each_method_boxplot](https://github.com/user-attachments/assets/318e7fc7-e9c0-4324-877c-57843f4974d9)
+
+![lineplot](https://github.com/user-attachments/assets/3f1d57f4-4616-48ef-9e46-b6d62773ad76)
+
 ## Recomendations
 - Based on the analysis the following is recommended:
  - the Email + Call method is recommended for its consistent average revenue growth, making it the most effective sales strategy over time.
